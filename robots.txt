@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bfefferm-pers.github.io/sitemap.xml
+Sitemap: https://www.benjaminfefferman.com/sitemap.xml

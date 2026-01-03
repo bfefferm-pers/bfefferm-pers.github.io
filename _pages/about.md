@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI for Biomedicine and Society
+subtitle: <strong>AI for Biomedicine and Society</strong>
 
 profile:
   align: right

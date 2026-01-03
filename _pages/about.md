@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="white-space: nowrap;">bfefferman [at] g.harvard.edu</p>
+    <p style="white-space: nowrap; text-align: center;">bfefferman [at] g.harvard.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

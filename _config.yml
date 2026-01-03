@@ -271,7 +271,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Fefferman]
-  first_name: [Benjamin, B.]
+  first_name: [Benjamin, Ben, B.]
 
   style: apa
   locale: en

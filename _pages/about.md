@@ -29,6 +29,6 @@ I work on foundational AI problems — computational, statistical, and algorithm
 
 My research has since evolved toward interdisciplinary questions pertaining to how we can ensure that the AI revolution benefits humanity. I recently received my Master's degree from [Harvard University](https://dbmi.hms.harvard.edu/), and have since been awarded a fellowship to conduct AI safety research in Cambridge, UK.
 
-I received my Bachelor of Science from the [University of Chicago](https://www.uchicago.edu/en), where my research centered about chemical biology for epigenmics & epitranscriptomics, as well as machine learning. 
+I received my Bachelor of Science from the [University of Chicago](https://www.uchicago.edu/en), where my research centered about chemical biology for epigenomics & epitranscriptomics, as well as machine learning. 
 
 My prior studies and current work involve extensive context from the mathematical, natural, and data-driven sciences.

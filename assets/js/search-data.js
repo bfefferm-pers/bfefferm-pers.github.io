@@ -72,7 +72,10 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{
+            },{id: "news-i-am-delighted-to-join-the-leadership-team-at-the-cambridge-boston-alignment-initiative-where-i-will-coordinate-aixbiosecurity-research-as-a-research-manager",
+          title: 'I am delighted to join the leadership team at the Cambridge Boston Alignment...',
+          description: "",
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',

@@ -27,7 +27,7 @@ latest_posts:
 
 I work on foundational AI problems — computational, statistical, and algorithmic — with biomedical and societal relevance. I am particularly interested in research topics pertaining to precision oncology and drug discovery, for which I pursued Ph.D. studies in bioinformatics.
 
-My research has since evolved toward interdisciplinary questions pertaining to how we can ensure that the AI revolution benefits humanity. I recently received my Master's degree from [Harvard University](https://dbmi.hms.harvard.edu/), and have since been awarded a fellowship to conduct AI safety research in Cambridge, UK.
+My research has since evolved toward interdisciplinary questions pertaining to how we can ensure that the AI revolution benefits humanity. I recently received my Master's degree from [Harvard University](https://dbmi.hms.harvard.edu/), and have since been awarded a fellowship to conduct AI safety research in Cambridge, UK (https://www.aixbiosecurity.com/).
 
 I received my Bachelor of Science from the [University of Chicago](https://www.uchicago.edu/en), where my research centered about chemical biology for epigenomics & epitranscriptomics, as well as machine learning. 
 

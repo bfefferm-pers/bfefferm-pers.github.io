@@ -72,8 +72,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "news-april-24-26-i-have-been-invited-to-evaluate-submissions-for-apart-research-s-aixbio-hackathon",
-          title: 'April 24-26: I have been invited to evaluate submissions for Apart Research’s AIxBio...',
+            },{id: "news-april-24-26-i-have-been-invited-to-evaluate-submissions-for-the-apart-research-aixbio-hackathon",
+          title: 'April 24-26: I have been invited to evaluate submissions for the Apart Research...',
           description: "",
           section: "News",},{id: "news-i-am-delighted-to-join-the-leadership-team-at-the-cambridge-boston-alignment-initiative-where-i-will-coordinate-aixbiosecurity-research-as-a-research-manager",
           title: 'I am delighted to join the leadership team at the Cambridge Boston Alignment...',

@@ -6,4 +6,4 @@ related_posts: false
 published: true
 ---
 
-April 24-26: I have been invited to evaluate submissions for [Apart Research](https://www.apartresearch.com/)'s AIxBio hackathon.
+April 24-26: I have been invited to evaluate submissions for the [Apart Research](https://www.apartresearch.com/) AIxBio hackathon.

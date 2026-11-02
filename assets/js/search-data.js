@@ -78,8 +78,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-delighted-to-join-the-leadership-team-at-the-cambridge-boston-alignment-initiative-where-i-will-coordinate-aixbiosecurity-research-as-a-research-manager",
           title: 'I am delighted to join the leadership team at the Cambridge Boston Alignment...',
           description: "",
-          section: "News",},{id: "news-our-team-has-advanced-to-the-final-benchmark-composition-stage-for-the-robocurve-robotics-benchmarking-program",
-          title: 'Our team has advanced to the final benchmark composition stage for the Robocurve...',
+          section: "News",},{id: "news-our-team-has-advanced-to-the-final-benchmark-creation-stage-for-the-robocurve-robotics-benchmarking-program",
+          title: 'Our team has advanced to the final benchmark creation stage for the Robocurve...',
           description: "",
           section: "News",},{
         id: 'social-cv',

@@ -6,4 +6,4 @@ related_posts: false
 published: true
 ---
 
-Our team has advanced to the final benchmark composition stage for the [Robocurve Robotics Benchmarking Program](https://robocurve.org/#work)!
+Our team has advanced to the final benchmark creation stage for the [Robocurve Robotics Benchmarking Program](https://robocurve.org/#work)!

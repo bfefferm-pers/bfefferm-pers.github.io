@@ -75,7 +75,7 @@ ninja.data = [{
             },{id: "news-i-have-been-invited-to-evaluate-submissions-for-the-apart-research-aixbio-hackathon",
           title: 'I have been invited to evaluate submissions for the Apart Research AIxBio hackathon....',
           description: "",
-          section: "News",},{id: "news-i-am-delighted-to-join-the-leadership-team-at-the-cambridge-boston-alignment-initiative-where-i-will-coordinate-aixbiosecurity-research-as-a-research-manager",
+          section: "News",},{id: "news-i-am-delighted-to-join-the-leadership-team-at-the-cambridge-boston-alignment-initiative-where-i-will-coordinate-aixbiosecurity-research-as-a-research-manager-this-summer",
           title: 'I am delighted to join the leadership team at the Cambridge Boston Alignment...',
           description: "",
           section: "News",},{id: "news-our-team-has-advanced-to-the-final-benchmark-creation-stage-for-the-robocurve-robotics-benchmarking-program",

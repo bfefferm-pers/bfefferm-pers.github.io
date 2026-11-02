@@ -6,4 +6,4 @@ related_posts: false
 published: true
 ---
 
-I am delighted to join the leadership team at the [Cambridge Boston Alignment Initiative](https://www.cbai.ai/), where I will coordinate AIxBiosecurity research as a Research Manager.
+I am delighted to join the leadership team at the [Cambridge Boston Alignment Initiative](https://www.cbai.ai/), where I will coordinate AIxBiosecurity research as a Research Manager this summer.
